@@ -1,0 +1,78 @@
+{
+    "broadArea": {
+        "name": "Electronics and Communications",
+        "link": "https://www.vlab.co.in/broad-area-electronics-and-communications"
+    },
+    "lab": "Digital Logic Design",
+    "phase": "3",
+    "deployLab":true,
+    "collegeName": "IITB",
+    "baseUrl": "http://dld-iitb.vlabs.ac.in",
+    "introduction": "Welcome to Digital Logic Design Lab",
+    "experiments": [
+    		{
+	        "name": "Implementation of 8:1 multiplexer using MSI ICs",
+		"short-name": "implementation-of-multiplexer",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-logic-design-pvg/implementation-multiplexer-using-msi",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+	    }, {
+	        "name": "Design of four variable function using MSI ICs",
+		"short-name": "four-variable-function",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-logic-design-pvg/four-variable-function-pvg",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+	    }, {
+	        "name": "Design of Gray to Binary code converter using MSI ICs",
+		"short-name": "gray-binary-code-converter",
+		"repo": " http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-logic-design-pvg/gray-to-binary-code-converter-pvg",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+	    }, {
+	        "name": "Design of Binary to Gray code converter using MSI ICs",
+		"short-name": "Binary-gray-code-converter",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-logic-design-pvg/binary-to-gray-code-converter-pvg",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+	    }, {
+	        "name": "Implementation of binary adder using MSI ICs",
+		"short-name": "binary-adder",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-logic-design-pvg/binary-adder-implementation-pvg",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+	    }, {
+                "name": "Design of binary subtractor using MSI ICs",
+                "short-name": "binary-subractor",
+                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-logic-design-pvg/binary-subtractor-pvg",
+                "tag": "v1.0.0",
+                "deploy": true
+            }, {
+                "name": "Implementation of 4 bit digital comparator using MSI ICs",
+                "short-name": "four-bit-digital-comparator",
+                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-logic-design-pvg/four-bit-digital-comparator-pvg",
+                "tag": "v1.0.0",
+                "deploy": true
+            }, {
+                "name": "Design of 8 bit digital comparator using MSI ICs",
+                "short-name": "eight-bit-digital-comparator",
+                "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-logic-design-pvg/eight-bit-digital-comparator-pvg",
+                "tag": "v1.0.0",
+                "deploy": true
+            }
+    ],
+    "targetAudience": {
+        "UG": ["B.Tech, BE"],
+        "PG": ["M.Tech, ME"]
+    },
+    "objective": "A digital trainer board is made available to the student on the simulator, which looks very similar to the laboratory setup. This lab is developed for digital logic design using the medium scale integrated circuits. The procedure is demonstrated through a short video attached in the procedure.",
+
+   "This lab basically uses the MSI ICs for building 8:1 multiplexer, any 4-variable function implementation, code converters, four bit binary adder and subtractor circuits. The students can also perform experiments based on comparator ICs. They can build the 4 bit and 8-bit comparators using MSI ICs.",
+
+    "The best feature of this simulator is that it also has a provision to capture the timing diagrams for each of the input combinations and display the same. The additional features of this lab are it provides the student with the data sheets as well for a better understanding. it also has a tab to generate truth table and a debug option.",
+    "courseAlignment": {
+        "description": "The syllabi of this lab aligns to the following universities in India.",
+        "universities": [
+			{"SPPU"}
+	]
+    }
+}
