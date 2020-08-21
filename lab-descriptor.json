@@ -47,13 +47,13 @@
                 "tag": "v1.0.0",
                 "deploy": true
             }, {
-                "name": "Implementation of 4 bit digital comparator using MSI ICs",
+                "name": "Implementation of four bit digital comparator using MSI ICs",
                 "short-name": "four-bit-digital-comparator",
                 "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-logic-design-pvg/four-bit-digital-comparator-pvg",
                 "tag": "v1.0.0",
                 "deploy": true
             }, {
-                "name": "Design of 8 bit digital comparator using MSI ICs",
+                "name": "Design of eight bit digital comparator using MSI ICs",
                 "short-name": "eight-bit-digital-comparator",
                 "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-logic-design-pvg/eight-bit-digital-comparator-pvg",
                 "tag": "v1.0.0",
