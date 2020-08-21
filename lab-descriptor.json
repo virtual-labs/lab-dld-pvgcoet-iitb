@@ -65,14 +65,12 @@
         "PG": ["M.Tech, ME"]
     },
     "objective": "A digital trainer board is made available to the student on the simulator, which looks very similar to the laboratory setup. This lab is developed for digital logic design using the medium scale integrated circuits. The procedure is demonstrated through a short video attached in the procedure.",
-
    "This lab basically uses the MSI ICs for building 8:1 multiplexer, any 4-variable function implementation, code converters, four bit binary adder and subtractor circuits. The students can also perform experiments based on comparator ICs. They can build the 4 bit and 8-bit comparators using MSI ICs.",
-
     "The best feature of this simulator is that it also has a provision to capture the timing diagrams for each of the input combinations and display the same. The additional features of this lab are it provides the student with the data sheets as well for a better understanding. it also has a tab to generate truth table and a debug option.",
     "courseAlignment": {
         "description": "The syllabi of this lab aligns to the following universities in India.",
         "universities": [
-			{"SPPU"}
+			"SPPU"
 	]
     }
 }
