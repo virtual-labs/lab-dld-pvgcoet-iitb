@@ -25,12 +25,12 @@
 	    }, {
 	        "name": "Design of Gray to Binary code converter using MSI ICs",
 		"short-name": "gray-binary-code-converter",
-		"repo": " http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-logic-design-pvg/gray-to-binary-code-converter-pvg",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-logic-design-pvg/gray-to-binary-code-converter-pvg",
  	        "tag": "v1.0.0",
          	"deploy": true
 	    }, {
 	        "name": "Design of Binary to Gray code converter using MSI ICs",
-		"short-name": "Binary-gray-code-converter",
+		"short-name": "binary-gray-code-converter",
 		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/digital-logic-design-pvg/binary-to-gray-code-converter-pvg",
  	        "tag": "v1.0.0",
          	"deploy": true
