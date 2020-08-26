@@ -1,14 +1,14 @@
 {
     "broadArea": {
-        "name": "Electronics and Communications",
+        "name": "Electronics and Communication Engineering",
         "link": "https://www.vlab.co.in/broad-area-electronics-and-communications"
     },
-    "lab": "Digital Logic Design",
+    "lab": "Digital Logic Design IITB",
     "phase": "3",
     "deployLab":true,
     "collegeName": "IITB",
     "baseUrl": "http://dld-iitb.vlabs.ac.in",
-    "introduction": "Welcome to Digital Logic Design Lab",
+    "introduction": "Welcome to Digital Logic Design IITB Lab",
     "experiments": [
     		{
 	        "name": "Implementation of 8:1 multiplexer using MSI ICs",
